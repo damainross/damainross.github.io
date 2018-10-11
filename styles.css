@@ -1,0 +1,111 @@
+
+
+h1{
+    color: white;
+}
+h3{
+    color: white;
+}
+.g
+
+{
+   
+    
+      
+    border-style: solid;
+    border-width: thin;
+    background  : black;
+    background-clip: border-box;
+    text-align: center;
+    margin: auto;
+    height: 40 px; 
+    text : white;
+    width:1200px;
+    border-color:  white;
+}
+.cover
+{   width: 1200px;
+    padding: 30px;
+    margin: auto;
+    //border: 40 px green;
+    background: black;
+}
+
+.grid{
+     
+    display: grid;
+    grid-template-columns: 3% 20% 1fr 3%;
+    background: white;
+    margin: auto;
+}     
+      
+img{
+    border-radius: 50%;
+    width: 200px;
+    height: auto;
+}
+.phone{
+    width: 25px;
+    height: auto;
+}
+.mail{
+    width: 25px;
+    height: auto;
+}
+.web{
+    width: 25px;
+    height: auto;
+}
+.in{
+    width: 25px;
+    height: auto;
+}
+.fb{
+    width: 25px;
+    height: auto;
+}
+.insta{
+    width: 25px;
+    height: auto;
+}
+.twitter{
+    width: 25px;
+    height: auto;
+}
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid black;
+    margin: 1em 0;
+    padding: 0;
+    width: 60%
+    
+}
+.inngrid{
+     
+    display: grid;
+    grid-template-columns: 1fr  1fr ;
+    background: white;
+    margin: auto;
+}
+.inngrid2{
+    
+    size: 50px;
+}
+
+.ggrid{
+    display: grid;
+    grid-template-columns: 1fr  1fr ;
+    background: white;
+    margin: auto;  
+    
+}
+
+.gr{
+    display: grid;
+    grid-template-columns: 1fr  1fr ;
+    background: white;
+    margin: auto;  
+    
+}
