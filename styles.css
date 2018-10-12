@@ -34,7 +34,7 @@ h3{
 .grid{
      
     display: grid;
-    grid-template-columns: 3% 20% 1fr 3%;
+    grid-template-columns:  3%  20%  1fr  3% ;
     background: white;
     margin: auto;
 }     
@@ -85,13 +85,14 @@ hr {
 .inngrid{
      
     display: grid;
-    grid-template-columns: 1fr  1fr ;
+    grid-template-columns: 1fr  1fr  ;
     background: white;
     margin: auto;
 }
 .inngrid2{
     
-    size: 50px;
+     size: 50px;
+     
 }
 
 .ggrid{
@@ -108,4 +109,11 @@ hr {
     background: white;
     margin: auto;  
     
+}
+h3{
+    color: black
+}
+
+.grid1{
+    background-color: lightgray
 }
